@@ -1,0 +1,5 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+TabPaiement		TAR	27	nouvelle taille enregistrement : 27
+TabPaiement	CodeMp	CNW	Chaîne$Entier sur 4 octets	la rubrique CodeMp a pour nouveau type Chaîne
+TabEmployer		TAR	1030	nouvelle taille enregistrement : 1030
+TabEmployer	CodeMp	CNW	Chaîne$Entier sur 4 octets	la rubrique CodeMp a pour nouveau type Chaîne

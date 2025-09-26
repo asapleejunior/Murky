@@ -1,0 +1,14 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+TabEmployer		TAR	1021	nouvelle taille enregistrement : 1021
+TabEmployer	nomE	TAI+	20	la rubrique nomE a comme nouvelle taille 51 au lieu de 31
+TabEmployer	lieuN	TAI+	20	la rubrique lieuN a comme nouvelle taille 51 au lieu de 31
+TabEmployer	nomPE	TAI+	20	la rubrique nomPE a comme nouvelle taille 51 au lieu de 31
+TabEmployer	paysOE	TAI+	10	la rubrique paysOE a comme nouvelle taille 31 au lieu de 21
+TabEmployer	logmE	TAI+	20	la rubrique logmE a comme nouvelle taille 51 au lieu de 31
+TabEmployer	arrondE	TAI+	20	la rubrique arrondE a comme nouvelle taille 51 au lieu de 31
+TabEmployer	comptFBE	TAI+	10	la rubrique comptFBE a comme nouvelle taille 41 au lieu de 31
+TabEmployer	comptEME	TAI+	20	la rubrique comptEME a comme nouvelle taille 51 au lieu de 31
+TabEmployer	comptSYE	TAI+	20	la rubrique comptSYE a comme nouvelle taille 51 au lieu de 31
+TabEmployer	comptIE	TAI+	20	la rubrique comptIE a comme nouvelle taille 51 au lieu de 31
+TabEmployer	comptWE	TAI+	20	la rubrique comptWE a comme nouvelle taille 51 au lieu de 31
+TabEmployer	permisE	TAI+	15	la rubrique permisE a comme nouvelle taille 31 au lieu de 16

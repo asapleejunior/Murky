@@ -1,0 +1,6 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+TabContenir		TAR	39	nouvelle taille enregistrement : 39
+TabContenir	gain	CNW	Entier sur 4 octets$Chaîne	la rubrique gain a pour nouveau type Entier sur 4 octets
+TabContenir	retourne	CNW	Entier sur 4 octets$Chaîne	la rubrique retourne a pour nouveau type Entier sur 4 octets
+TabContenir	nombre	CNW	Entier sur 4 octets$Chaîne	la rubrique nombre a pour nouveau type Entier sur 4 octets
+TabContenir	taux	RUB+		taux est une nouvelle rubrique

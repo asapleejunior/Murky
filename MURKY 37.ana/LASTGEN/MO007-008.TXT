@@ -1,0 +1,3 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+TabEmployer		TAR	1034	nouvelle taille enregistrement : 1034
+TabEmployer	SalaireE	RUB+		SalaireE est une nouvelle rubrique

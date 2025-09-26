@@ -1,0 +1,8 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+TabContenir		TAR	66	nouvelle taille enregistrement : 66
+TabContenir	th	RUB+		th est une nouvelle rubrique
+TabContenir	tac	RUB+		tac est une nouvelle rubrique
+TabContenir	tde	RUB+		tde est une nouvelle rubrique
+TabContenir	tav	RUB+		tav est une nouvelle rubrique
+TabContenir	tTr	RUB+		tTr est une nouvelle rubrique
+TabContenir	tLog	RUB+		tLog est une nouvelle rubrique

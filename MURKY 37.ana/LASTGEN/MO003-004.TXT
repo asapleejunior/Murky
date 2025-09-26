@@ -1,0 +1,6 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+TabDesignation		TAR	102	nouvelle taille enregistrement : 102
+TabDesignation	typeC	RUB+		typeC est une nouvelle rubrique
+TabDesignation	typeL	RUB+		typeL est une nouvelle rubrique
+TabEmployer		TAR	1030	nouvelle taille enregistrement : 1030
+TabEmployer	sexeE	RUB+		sexeE est une nouvelle rubrique

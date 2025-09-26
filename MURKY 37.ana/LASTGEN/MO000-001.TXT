@@ -1,0 +1,14 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+TabPaiement		NFI		nouveau fichier
+TabBulletin		NFI		nouveau fichier
+TabGroupement		NFI		nouveau fichier
+TabSection		NFI		nouveau fichier
+TabDesignation		NFI		nouveau fichier
+TabContenir		NFI		nouveau fichier
+TabEmployer		NFI		nouveau fichier
+Contrainte_TabSection_TabGroupement		NWL	TabSection (CodeS) et TabGroupement (CodeS)	Nouvelle liaison entre les fichiers TabSection (CodeS) et TabGroupement (CodeS)
+Contrainte_TabPaiement_TabEmployer		NWL	TabPaiement (CodeMp) et TabEmployer (CodeMp)	Nouvelle liaison entre les fichiers TabPaiement (CodeMp) et TabEmployer (CodeMp)
+Contrainte_TabDesignation_TabContenir		NWL	TabDesignation (CodeD) et TabContenir (CodeD)	Nouvelle liaison entre les fichiers TabDesignation (CodeD) et TabContenir (CodeD)
+Contrainte_TabBulletin_TabContenir		NWL	TabBulletin (NumB) et TabContenir (NumB)	Nouvelle liaison entre les fichiers TabBulletin (NumB) et TabContenir (NumB)
+Contrainte_TabSection_TabEmployer		NWL	TabSection (CodeS) et TabEmployer (CodeS)	Nouvelle liaison entre les fichiers TabSection (CodeS) et TabEmployer (CodeS)
+Contrainte_TabEmployer_TabBulletin		NWL	TabEmployer (QRcode) et TabBulletin (QRcode)	Nouvelle liaison entre les fichiers TabEmployer (QRcode) et TabBulletin (QRcode)

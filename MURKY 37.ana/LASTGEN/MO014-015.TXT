@@ -1,0 +1,7 @@
+//MO014-015.TXT ANA00014 TO ANA00015
+TabGroupement		TAR	78	nouvelle taille enregistrement : 78
+TabGroupement	CodeS	RUB-		la rubrique CodeS est supprimée
+TabSection		TAR	85	nouvelle taille enregistrement : 85
+TabSection	CodeG	RUB+		CodeG est une nouvelle clé
+Contrainte_TabGroupement_TabSection		NWL	TabGroupement (CodeG) et TabSection (CodeG)	Nouvelle liaison entre les fichiers TabGroupement (CodeG) et TabSection (CodeG)
+Contrainte_TabSection_TabGroupement		DEL	TabSection (CodeS) et TabGroupement (CodeS)	Liaison supprimée entre les fichiers TabSection (CodeS) et TabGroupement (CodeS)
