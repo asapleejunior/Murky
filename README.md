@@ -1,3 +1,3 @@
-Il s'agit d'un projet L1 qui  a fait office de mini-mémoire.
-Ce projet assure la gestion des salaires des pilotes au sein de l'entreprise Murky qui est fictive.
-ce projet est une application exe non déployé,vous pourrez le tester uniquement avec l'application Windev25
+This is an L1 project that served as a mini-thesis.  
+This project manages pilot salaries within the fictional company Murky.  
+This project is an undeployed exe application; you can only test it with the Windev25 application.
